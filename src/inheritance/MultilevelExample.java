@@ -15,7 +15,10 @@ class one {
 }
 
 class two extends one {
-    public void print_for() { System.out.println("two print for"); }
+
+
+    public void print_for() {
+        System.out.println("two print for"); }
 }
 
 class three extends two {

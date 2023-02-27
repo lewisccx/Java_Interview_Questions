@@ -59,7 +59,7 @@ public class PickingNumbers {
     public static void main(String[] args) throws IOException {
 
 
-        List<Integer> list = Arrays.asList(1, 2,2,3,1,2);
+        List<Integer> list = Arrays.asList(5, 2,2,3,1,2);
 
 
         System.out.println(Result.pickingNumbers(list));

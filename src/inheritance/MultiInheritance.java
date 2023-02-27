@@ -31,7 +31,6 @@ public class MultiInheritance implements PI1,PI2 {
     @Override
     public void show()
     {
-
         // Using super keyword to call the show
         // method of PI1 interface
         PI1.super.show("Default PI1");//Should not be used directly in the main method;
